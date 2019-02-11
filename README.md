@@ -15,6 +15,7 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 - Wail until all downloads and environment setup finished (10+ minutes)
 
 **Pre-compile**  
+
 ![1](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/1.jpg)  
 ![2](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/2.jpg)  
 ![3](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/3.jpg)  
@@ -40,6 +41,7 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 (For Chinese language, use thses for guessing)  
 - Download Mi's overwritable firmware: [miwifi_r3_all_55ac7_2.11.20.zip](https://www.dropbox.com/s/r09dl0or4z2iyxh/miwifi_r3_all_55ac7_2.11.20.zip?dl=1)
 - Extract and flash to the router  
+
 ![2](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/02.jpg)  
 ![3](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/03.jpg)  
 ![4](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/04.jpg)  
@@ -48,7 +50,7 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 - Connect to the router through WiFi **Xiaomi_xxxxxx** > pop-up Setup page
 - Finish initial setup - remember **admin password**
 
-## Flash firmware
+## Flash firmware  
 ![1](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/01.jpg)
 - Set PC network adapter:
 	- Write down current settings
