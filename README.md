@@ -1,4 +1,4 @@
-### Mi Router 3 Custom Firmware
+### Mi Router 3 Custom Firmware Installation
 - Prepare PC
 - Prepare Mi Router
 - Flash firmware
