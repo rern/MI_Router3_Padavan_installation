@@ -23,7 +23,7 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 
 **Compile**  
 
-![4](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/scrrenshots/4.jpg)
+![4](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/4.jpg)
 - Type **3** `Build toolchain (3)` (60+ minutes)
 - Type **4** `Firmware (4)`
     - Type **2** `Apply skins (2)` > **0** - **6** `(0)-(6)` for all skins > **Q** `(Q)uit`
