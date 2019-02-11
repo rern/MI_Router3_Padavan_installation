@@ -1,5 +1,5 @@
 ### Mi Router 3 Custom Firmware Installation
-Use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan's custom firmware](https://github.com/andy-padavan/rt-n56u) to Mi Router 3.
+How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan's custom firmware](https://github.com/andy-padavan/rt-n56u) to Mi Router 3.
 - Prepare PC
 - Prepare Mi Router
 - Flash firmware
