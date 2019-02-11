@@ -7,7 +7,7 @@
 ## Prepare PC
 - Install **VMware Workstation Player**: [www.vmware.com](www.vmware.com)
 - Download: [VMWARE-PROMETHEUS-64-UBUNTU-EN-RU.7z](https://disk.yandex.ru/d/6EpD2EpHmB82o) > extract
-- **VMware Workstation Player** > Player > File > Open... > select extracted folder > select `PROMETHEUS-64-U-EN.vmx`
+- `VMware Workstation Player` > `Player` > `File` > `Open...` > select extracted folder > select `PROMETHEUS-64-U-EN.vmx`
 - Select `Power on` (green play icon) > `I copt it` > `No` for connect virtual device > `No` for software update
 - Wail until all downloads and environment setup finished (10+ minutes)
 
