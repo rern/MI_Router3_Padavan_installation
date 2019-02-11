@@ -59,6 +59,7 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
     	- `Firmware: MI-3_X.X.X.X-XXX.trx`
 	- `SSH-hach of stock firmware (0)` disappeared
 - Type **4** `Firmware (4)` > **4** `Flash a firmware (4)` > type **n** no backup partition to save time
+![5](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/5.jpg)
 - Wait until finished > type **y** to reboot the router
 - Done
 - Restore PC network adapter settings
