@@ -22,7 +22,7 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 (Make sure NumLock is on for number keys.)
 - Type **1** `1) Padavan-ng (Linaro)` (2 rounds)
 - Wait until source cloning finished
-- Type **2** `2) Xiaomi` > **4** `4) mi-3`
+- Type **2** `2) xiaomi` > **4** `4) mi-3`
 
 **Compile**  
 
