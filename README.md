@@ -46,9 +46,9 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 ![3](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/03.jpg)  
 ![4](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/04.jpg)  
 ![5](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/05.jpg)
-- Disconnect all LAN
+- Disconnect LAN - PC to router
 - Connect to the router through WiFi **Xiaomi_xxxxxx** > pop-up Setup page
-- Finish initial setup - remember **admin password**
+- Finish initial setup - write down **admin password**
 
 ## Flash firmware  
 ![1](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/01.jpg)
@@ -56,7 +56,7 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 	- Write down current settings
 	- Set IP: 192.168.31.2
 	- Set subnet: 255.255.255.0
-- Reconnect PC to Router
+- Reconnect LAN - PC to router
 - If `(Q)uit` > Run `./start.sh`
 - Type **0** `SSH-hach of stock firmware (0)` > **enter** for (default - 192.168.31.1) > type **addmin password**
 - Wait until SSH-hack succeeded
