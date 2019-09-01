@@ -38,7 +38,7 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 - Type **Q** `(Q)uit` or keep it running
 
 ## Prepare Mi Router   
-(For Chinese language, use thses for guessing)  
+(For Chinese language, use these for guessing)  
 - Download Mi's overwritable firmware: [miwifi_r3_all_55ac7_2.11.20.zip](https://www.dropbox.com/s/r09dl0or4z2iyxh/miwifi_r3_all_55ac7_2.11.20.zip?dl=1)
 - Extract and flash to the router  
 
