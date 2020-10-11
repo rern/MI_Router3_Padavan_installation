@@ -42,7 +42,7 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
     - Wait until finished (30+ minutes)
     - Type **Q** `(Q)uit`  
     
-- Type **Q** `(Q)uit` or keep it running
+- Keep main menu running
 
 ## Prepare Mi Router   
 (For Chinese language, use these for guessing)  
@@ -55,33 +55,41 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 ![5](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/05.jpg)
 - Disconnect LAN - PC to router
 - Connect to the router through WiFi **Xiaomi_xxxxxx** > pop-up Setup page
-- Finish initial setup - write down **admin password**
+- Finish initial setup
+- write down **admin password**
 
 ## Flash firmware  
-![1](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/01.jpg)
 - Set PC network adapter:
 	- Write down current settings
 	- Set IP: 192.168.31.2
 	- Set subnet: 255.255.255.0
 - Reconnect LAN - PC to router
-- If `(Q)uit` > Run `./start.sh`
-- Type **0** `SSH-hach of stock firmware (0)` > **enter** for (default - 192.168.31.1) > type **addmin password**
+- If `(Q)uit` > Run `./start.sh` again.
+![1](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/01.jpg)
+- Type **0** `SSH-hach of stock firmware (0)`
+	- **Enter** for (default - 192.168.31.1)
+	- Type **addmin password**
 - Wait until SSH-hack succeeded
 - Verify:
-	- in heading:
+	- In heading:
     	- `Toolchain: OK`
     	- `Firmware: MI-3_X.X.X.X-XXX.trx`
 	- `SSH-hach of stock firmware (0)` disappeared
-- Type **4** `Firmware (4)` > **4** `Flash a firmware (4)` > type **n** no backup partition to save time
+- Type **4** `Firmware (4)`
+	- Type **4** `Flash a firmware (4)`
+	- Type **n** no backup partition to save time
 
 ![5](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/5.jpg)
-- Wait until finished > type **y** to reboot the router
+- Wait until finished
+- Type **y** to reboot the router
 - Done
 - Restore PC network adapter settings
 
 ## Setup Mi Router  
 Connect to the router
-- LAN or WiFi: **ASUS** password: **1234567890**
-- IP: 192.168.1.1
-- ID: admin
-- Password: admin
+	- LAN
+	- WiFi: **ASUS** password: **1234567890**
+Login
+	- IP: 192.168.1.1
+	- ID: admin
+	- Password: admin
