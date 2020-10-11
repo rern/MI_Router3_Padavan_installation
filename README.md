@@ -71,17 +71,19 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 	- **Enter** for (default - 192.168.31.1)
 	- Type **addmin password**
 - Wait until SSH-hack succeeded
-- Verify in heading:
-    	- `Toolchain: OK`
-    	- `Firmware: MI-3_X.X.X.X-XXX.trx`
+- Verify
+	- In heading: `Toolchain: OK Firmware: MI-3_X.X.X.X-XXX.trx`
+	- `SSH-hach of stock firmware (0)` disappeared
 - Type **4** `Firmware (4)`
-	- Type **4** `Flash a firmware (4)`
+![6](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/6.jpg)
+- Type **4** `Flash a firmware (4)`
 	- Type **n** no backup partition to save time
 
 ![5](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/5.jpg)
 - Wait until finished
 - Type **y** to reboot the router
-- Done
+
+## Done
 - Restore PC network adapter settings
 
 ## Setup Mi Router  
