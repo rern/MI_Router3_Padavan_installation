@@ -90,8 +90,9 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 ## Setup Mi Router  
 - Connect to the router  
 	- LAN
-	- or WiFi SSID: ASUS password: 1234567890
-	
+	- or WiFi
+		- SSID: ASUS
+		- password: 1234567890
 - Login
 	- IP: 192.168.1.1
 	- ID: admin
