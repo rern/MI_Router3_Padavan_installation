@@ -65,6 +65,7 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 	- Set subnet: 255.255.255.0
 - Reconnect LAN - PC to router
 - If `(Q)uit` > Run `./start.sh` again.  
+
 ![1](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/01.jpg)
 - Type **0** `SSH-hach of stock firmware (0)`
 	- **Enter** for (default - 192.168.31.1)
