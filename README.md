@@ -64,7 +64,7 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 	- Set IP: 192.168.31.2
 	- Set subnet: 255.255.255.0
 - Reconnect LAN - PC to router
-- If `(Q)uit` > Run `./start.sh` again.  
+- If main menu was closed, Run `./start.sh` again.  
 
 ![1](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/01.jpg)
 - Type **0** `SSH-hach of stock firmware (0)`
@@ -89,8 +89,7 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 ## Setup Mi Router  
 Connect to the router  
 - LAN
-- WiFi: **ASUS** password: **1234567890**  
-
+- or WiFi SSID: ASUS password: 1234567890
 Login
 - IP: 192.168.1.1
 - ID: admin
