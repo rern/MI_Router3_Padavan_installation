@@ -90,7 +90,8 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 - Connect to the router  
 	- LAN
 	- or WiFi SSID: ASUS password: 1234567890
--Login
+	
+- Login
 	- IP: 192.168.1.1
 	- ID: admin
 	- Password: admin
