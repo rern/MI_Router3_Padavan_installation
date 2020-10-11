@@ -87,10 +87,11 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 - Restore PC network adapter settings
 
 ## Setup Mi Router  
-Connect to the router
-    - LAN
-    - WiFi: **ASUS** password: **1234567890**
+Connect to the router  
+- LAN
+- WiFi: **ASUS** password: **1234567890**  
+
 Login
-    - IP: 192.168.1.1
-    - ID: admin
-    - Password: admin
+- IP: 192.168.1.1
+- ID: admin
+- Password: admin
