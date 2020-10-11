@@ -15,26 +15,33 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 - Wail until all downloads and environment setup finished (10+ minutes)
 
 **Pre-compile**  
-
-![1](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/1.jpg)  
-![2](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/2.jpg)  
-![3](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/3.jpg)  
-(Make sure NumLock is on for number keys.)
+(Make sure NumLock is on for number keys.)  
+- ![1](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/1.jpg)  
 - Type **1** `1) Padavan-ng (Linaro)` (2 rounds)
-- Wait until source cloning finished
-- Type **2** `2) xiaomi` > **4** `4) mi-3`
+- Wait until source cloning finished  
+- ![2](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/2.jpg)  
+- Type **2** `2) xiaomi`
+- ![3](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/3.jpg)  
+- Type **4** `4) mi-3`
 
 **Compile**  
 
 ![4](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/4.jpg)
-- Type **3** `Build toolchain (3)` (60+ minutes)  
-- Type **4** `Firmware (4)`
+- Type **3** `Build toolchain (3)`
+- Wait until finished (60+ minutes)
+- Type **4** `Firmware (4)`  
+
     - ![6](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/6.jpg)
-    - Type **2** `Apply skins (2)`
+    - Type **2** `Apply skins (2)`  
+    
     	- ![7](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/7.jpg)
-    	- Type **0** - **6** `(0)-(6)` for all skins > **Q** `(Q)uit`
-    - Type **3** `Build a firmware (3)` (30+ minutes)
-    - Type **Q** `(Q)uit`
+    	- Type **0** to **6** `(0) - (6)` to select all skins  
+		- Type **Q** `(Q)uit`  
+		
+    - Type **3** `Build a firmware (3)`
+    - Wait until finished (30+ minutes)
+    - Type **Q** `(Q)uit`  
+    
 - Type **Q** `(Q)uit` or keep it running
 
 ## Prepare Mi Router   
