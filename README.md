@@ -6,7 +6,7 @@ How to use [Prometheus tool](http://prometheus.freize.net/) to install [Padavan'
 - Setup Mi Router
 
 ## Prepare PC
-- Install **VMware Workstation Player**: [www.vmware.com](www.vmware.com)
+- Install **VMware Workstation Player**: [www.vmware.com]((https://www.vmware.com)
 - Download: [VMWARE-PROMETHEUS-64-UBUNTU-EN-RU.7z](https://disk.yandex.ru/d/6EpD2EpHmB82o) > extract  
 
 ![0](https://github.com/rern/MI_Router3_Padavan_installation/blob/master/screenshots/0.jpg)
